@@ -10,5 +10,6 @@ public class TestPing {
 		System.out.println(jedis.ping());
 		System.out.println(jedis.ping());
 		System.out.println("hello");
+		System.out.println(jedis.ping());
 	}
 }
